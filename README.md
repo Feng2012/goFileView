@@ -26,7 +26,7 @@ PDF预览接口 http://gofileview.onlinecode.cn/perview/onlinePreview?url=被预
 你可以直接访问 http://gofileview.onlinecode.cn/ 使用预置的文件查看goFileView的效果
 
 更新
-====pdfPageDownloadpdfPageDownload
+====
 
 2019年8月
 
